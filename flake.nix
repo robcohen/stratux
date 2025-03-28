@@ -1,5 +1,3 @@
-// flake.nix for Stratux pi-gen image build
-
 {
   description = "Stratux pi-gen image builder";
 
